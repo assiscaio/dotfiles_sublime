@@ -1,0 +1,19 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"save_on_focus_lost": false,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"highlight_line": false,
+	"highlight_gutter": true,
+	"highlight_line_number": true,
+	"caret_style": "blink",
+	"block_caret": false,
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0,
+	"caret_extra_width": 1,
+}

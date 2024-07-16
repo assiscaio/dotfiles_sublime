@@ -1,0 +1,22 @@
+// Settings in here override those in "LSP-angular/LSP-angular.sublime-settings"
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"LSP": {
+			"LSP-angular": {
+				"command": [
+					"$(node_bin)",
+					"$(folder)/node_modules/@angular/language-server/index.js",
+					"--ngProbeLocations", "${folder}/node_modules",  // adjust the path based on your project
+          			"--tsProbeLocations", "${folder}/node_modules",  // adjust the path based on your project
+          			"--stdio"
+				]
+			}
+		}
+	},
+	"selector": "text.html.ngx | source.ts | source.js"
+}
