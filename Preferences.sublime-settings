@@ -1,13 +1,13 @@
 {
-	"theme": "Adaptive.sublime-theme",
-	"font_size": 12,
+	"theme": "Guna.sublime-theme",
+	/*"font_size": 13,*/
 	"ignored_packages":
 	[
 		"Vintage",
 	],
 	"index_files": true,
 	"save_on_focus_lost": false,
-	"color_scheme": "Mariana.sublime-color-scheme",
+	"color_scheme": "Guna.sublime-color-scheme",
 	"highlight_line": false,
 	"highlight_gutter": true,
 	"highlight_line_number": true,
@@ -16,4 +16,31 @@
 	"caret_extra_top": 0,
 	"caret_extra_bottom": 0,
 	"caret_extra_width": 1,
+	/*"gnc_h16": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w1m12": true,*/
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sidebar_box": true,
+	"gn_title_bar": true,
+	/*"gnc_001": false,*/
+	/*"gnc_002": true,*/
+	"gnwidg1": true,
+	"gnwidgo": true,
+	/*"gnc_m01": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_m04": true,*/
+	/*"gnc_h16": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_m00": true,*/
+	"gnc_h16": true,
+	/*"gnc_w1m13": true,*/
+	"gnc_001": false,
+	"gnc_m05": true,
+	"gnc_w1m14": true,
+	"gnc_002": true,
 }
